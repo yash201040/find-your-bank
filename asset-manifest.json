@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yash201040/find-your-bank.git/static/css/main.073c9b0a.css",
+    "main.js": "/yash201040/find-your-bank.git/static/js/main.fbe2aa9a.js",
+    "static/js/787.679ed6e2.chunk.js": "/yash201040/find-your-bank.git/static/js/787.679ed6e2.chunk.js",
+    "static/media/logo.svg": "/yash201040/find-your-bank.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/yash201040/find-your-bank.git/index.html",
+    "main.073c9b0a.css.map": "/yash201040/find-your-bank.git/static/css/main.073c9b0a.css.map",
+    "main.fbe2aa9a.js.map": "/yash201040/find-your-bank.git/static/js/main.fbe2aa9a.js.map",
+    "787.679ed6e2.chunk.js.map": "/yash201040/find-your-bank.git/static/js/787.679ed6e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fbe2aa9a.js"
+  ]
+}
